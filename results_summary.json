@@ -1,0 +1,9 @@
+{
+  "test_loss": 0.2961,
+  "test_accuracy": 0.8788,
+  "epochs_ran": 13,
+  "embedding_dim": 300,
+  "max_sequence_len": 200,
+  "top_words": 10000,
+  "batch_size": 256
+}
