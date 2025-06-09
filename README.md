@@ -1,6 +1,7 @@
 # Sentiment-Analysis-Bi-LSTM-GloVe
 
 •	Built and trained a Bi-LSTM-based deep-learning mode with 300d GloVe integration and an attention block for contextual richness.
+
 •	Achieved 88% validation accuracy, tackling severe overfitting issues, and achieving better convergence, resulting top performance in class.
 
 Architecture:
